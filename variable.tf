@@ -3,10 +3,10 @@ variable "region" {
 	}
 
 variable "acckey" {
-	default = "AKIA6EXWOWTXMOMCHAN2"
+	default = "AKIA6EXWOWTXMOMCHANWA2"
 	}
 
 variable "seckey" {
-	default = "UcrsyoDb3YRu560niVYeCbVKa188uMIQQbXXS2DC"
+	default = "UcrsyoDb3YRu560niVYeCbVKa188uMIQQbXXS2SWDC"
 	}
 
